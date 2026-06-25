@@ -1,0 +1,4 @@
+- [x] Read app.py and identify indentation/syntax issues
+- [x] Fix indentation and any syntax errors in app.py
+- [x] Validate app.py via python -m py_compile
+- [ ] Run a quick sanity check (optional)
